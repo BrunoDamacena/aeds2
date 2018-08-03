@@ -1,0 +1,108 @@
+Ordered tree containing 1000 elements:
+
+Comparisons made: 1000
+
+Execution time: 297ms
+
+Ordered tree containing 2000 elements:
+
+Comparisons made: 2000
+
+Execution time: 324ms
+
+Ordered tree containing 3000 elements:
+
+Comparisons made: 3000
+
+Execution time: 1019ms
+
+Ordered tree containing 4000 elements:
+
+Comparisons made: 4000
+
+Execution time: 258ms
+
+Ordered tree containing 5000 elements:
+
+Comparisons made: 5000
+
+Execution time: 185ms
+
+Ordered tree containing 6000 elements:
+
+Comparisons made: 6000
+
+Execution time: 189ms
+
+Ordered tree containing 7000 elements:
+
+Comparisons made: 7000
+
+Execution time: 211ms
+
+Ordered tree containing 8000 elements:
+
+Comparisons made: 8000
+
+Execution time: 233ms
+
+Ordered tree containing 9000 elements:
+
+Comparisons made: 9000
+
+Execution time: 264ms
+
+Random tree containing 1000 elements:
+
+Comparisons made: 8
+
+Execution time: 45ms
+
+Random tree containing 2000 elements:
+
+Comparisons made: 11
+
+Execution time: 72ms
+
+Random tree containing 3000 elements:
+
+Comparisons made: 5
+
+Execution time: 72ms
+
+Random tree containing 4000 elements:
+
+Comparisons made: 8
+
+Execution time: 43ms
+
+Random tree containing 5000 elements:
+
+Comparisons made: 11
+
+Execution time: 44ms
+
+Random tree containing 6000 elements:
+
+Comparisons made: 7
+
+Execution time: 45ms
+
+Random tree containing 7000 elements:
+
+Comparisons made: 13
+
+Execution time: 44ms
+
+Random tree containing 8000 elements:
+
+Comparisons made: 5
+
+Execution time: 44ms
+
+Random tree containing 9000 elements:
+
+Comparisons made: 11
+
+Execution time: 55ms
+

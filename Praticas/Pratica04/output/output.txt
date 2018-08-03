@@ -1,0 +1,80 @@
+Ordered array containing 10000 elements:
+
+Comparisons made: 52608
+
+Ordered array containing 20000 elements:
+
+Comparisons made: 116049
+
+Ordered array containing 30000 elements:
+
+Comparisons made: 184958
+
+Ordered array containing 40000 elements:
+
+Comparisons made: 252392
+
+Ordered array containing 50000 elements:
+
+Comparisons made: 324934
+
+Ordered array containing 60000 elements:
+
+Comparisons made: 399834
+
+Ordered array containing 70000 elements:
+
+Comparisons made: 474284
+
+Ordered array containing 80000 elements:
+
+Comparisons made: 544017
+
+Ordered array containing 90000 elements:
+
+Comparisons made: 618835
+
+Ordered array containing 100000 elements:
+
+Comparisons made: 698164
+
+Random array containing 10000 elements:
+
+Comparisons made: 53817
+
+Random array containing 20000 elements:
+
+Comparisons made: 117436
+
+Random array containing 30000 elements:
+
+Comparisons made: 185604
+
+Random array containing 40000 elements:
+
+Comparisons made: 255195
+
+Random array containing 50000 elements:
+
+Comparisons made: 327145
+
+Random array containing 60000 elements:
+
+Comparisons made: 401311
+
+Random array containing 70000 elements:
+
+Comparisons made: 476510
+
+Random array containing 80000 elements:
+
+Comparisons made: 550354
+
+Random array containing 90000 elements:
+
+Comparisons made: 625873
+
+Random array containing 100000 elements:
+
+Comparisons made: 704306
+

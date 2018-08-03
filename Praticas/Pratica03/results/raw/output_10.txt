@@ -1,0 +1,240 @@
+Ordered tree of order 2 containing 10000 elements:
+
+Comparisons made: 8
+
+Ordered tree of order 2 containing 20000 elements:
+
+Comparisons made: 9
+
+Ordered tree of order 2 containing 30000 elements:
+
+Comparisons made: 9
+
+Ordered tree of order 2 containing 40000 elements:
+
+Comparisons made: 10
+
+Ordered tree of order 2 containing 50000 elements:
+
+Comparisons made: 10
+
+Ordered tree of order 2 containing 60000 elements:
+
+Comparisons made: 10
+
+Ordered tree of order 2 containing 70000 elements:
+
+Comparisons made: 10
+
+Ordered tree of order 2 containing 80000 elements:
+
+Comparisons made: 10
+
+Ordered tree of order 2 containing 90000 elements:
+
+Comparisons made: 10
+
+Ordered tree of order 2 containing 100000 elements:
+
+Comparisons made: 10
+
+Random tree of order 2 containing 10000 elements:
+
+Comparisons made: 7
+
+Random tree of order 2 containing 20000 elements:
+
+Comparisons made: 8
+
+Random tree of order 2 containing 30000 elements:
+
+Comparisons made: 8
+
+Random tree of order 2 containing 40000 elements:
+
+Comparisons made: 8
+
+Random tree of order 2 containing 50000 elements:
+
+Comparisons made: 8
+
+Random tree of order 2 containing 60000 elements:
+
+Comparisons made: 9
+
+Random tree of order 2 containing 70000 elements:
+
+Comparisons made: 9
+
+Random tree of order 2 containing 80000 elements:
+
+Comparisons made: 9
+
+Random tree of order 2 containing 90000 elements:
+
+Comparisons made: 9
+
+Random tree of order 2 containing 100000 elements:
+
+Comparisons made: 9
+
+Random tree of order 4 containing 10000 elements:
+
+Comparisons made: 5
+
+Random tree of order 4 containing 20000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 30000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 40000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 50000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 60000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 70000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 80000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 90000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 100000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 10000 elements:
+
+Comparisons made: 5
+
+Random tree of order 4 containing 20000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 30000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 40000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 50000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 60000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 70000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 80000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 90000 elements:
+
+Comparisons made: 6
+
+Random tree of order 4 containing 100000 elements:
+
+Comparisons made: 6
+
+Random tree of order 6 containing 10000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 20000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 30000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 40000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 50000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 60000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 70000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 80000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 90000 elements:
+
+Comparisons made: 6
+
+Random tree of order 6 containing 100000 elements:
+
+Comparisons made: 6
+
+Random tree of order 6 containing 10000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 20000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 30000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 40000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 50000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 60000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 70000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 80000 elements:
+
+Comparisons made: 5
+
+Random tree of order 6 containing 90000 elements:
+
+Comparisons made: 6
+
+Random tree of order 6 containing 100000 elements:
+
+Comparisons made: 6
+

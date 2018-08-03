@@ -1,0 +1,120 @@
+Ordered tree containing 10000 elements:
+
+Comparisons made: 18
+
+Execution time: 234ms
+
+Ordered tree containing 20000 elements:
+
+Comparisons made: 19
+
+Execution time: 126ms
+
+Ordered tree containing 30000 elements:
+
+Comparisons made: 21
+
+Execution time: 116ms
+
+Ordered tree containing 40000 elements:
+
+Comparisons made: 20
+
+Execution time: 154ms
+
+Ordered tree containing 50000 elements:
+
+Comparisons made: 21
+
+Execution time: 132ms
+
+Ordered tree containing 60000 elements:
+
+Comparisons made: 22
+
+Execution time: 114ms
+
+Ordered tree containing 70000 elements:
+
+Comparisons made: 22
+
+Execution time: 140ms
+
+Ordered tree containing 80000 elements:
+
+Comparisons made: 21
+
+Execution time: 108ms
+
+Ordered tree containing 90000 elements:
+
+Comparisons made: 25
+
+Execution time: 113ms
+
+Ordered tree containing 100000 elements:
+
+Comparisons made: 22
+
+Execution time: 110ms
+
+Random tree containing 10000 elements:
+
+Comparisons made: 13
+
+Execution time: 111ms
+
+Random tree containing 20000 elements:
+
+Comparisons made: 13
+
+Execution time: 150ms
+
+Random tree containing 30000 elements:
+
+Comparisons made: 16
+
+Execution time: 161ms
+
+Random tree containing 40000 elements:
+
+Comparisons made: 14
+
+Execution time: 260ms
+
+Random tree containing 50000 elements:
+
+Comparisons made: 19
+
+Execution time: 97ms
+
+Random tree containing 60000 elements:
+
+Comparisons made: 18
+
+Execution time: 162ms
+
+Random tree containing 70000 elements:
+
+Comparisons made: 18
+
+Execution time: 95ms
+
+Random tree containing 80000 elements:
+
+Comparisons made: 17
+
+Execution time: 129ms
+
+Random tree containing 90000 elements:
+
+Comparisons made: 15
+
+Execution time: 99ms
+
+Random tree containing 100000 elements:
+
+Comparisons made: 15
+
+Execution time: 97ms
+
